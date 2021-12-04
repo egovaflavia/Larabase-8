@@ -80,14 +80,15 @@
                         <p>2021 &copy; Mazer</p>
                     </div>
                     <div class="float-end">
-                        <p>Made with love<span class="text-danger"> <a
-                                href="http://instagram.com/egovaflavia">Egova</a></p>
+                        <p>Made with love<span class="text-danger">
+                                <a href="http://instagram.com/egovaflavia"> Egova</a>
+                        </p>
                     </div>
                 </div>
             </footer>
         </div>
     </div>
-    
+
     @method('js-plugin')
     @method('js-script')
 
